@@ -1,0 +1,8 @@
+.metals
+.vscode
+
+target
+test_run_dir
+
+# This is generated from Chisel
+src/hdl
